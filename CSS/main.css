@@ -48,4 +48,13 @@ table {
 
 h1 {
 	font-family: "Rye", serif;
+	font-size: 36px;
+}
+
+h3 {
+	font-family: "Cormorant Unicase", serif;
+}
+
+p {
+	font-family: "Libertinus Serif", serif;
 }
